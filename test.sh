@@ -11,7 +11,7 @@ elif [$today -lt 20]; then
 elif [$today -gt 20]; then
   echo"今日は２０日よりあとの日にちです"
 else
-  echo "今日は２０日ではありません。"
+  echo "err:"
 fi
 
 
